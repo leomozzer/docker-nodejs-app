@@ -4,7 +4,8 @@ This is a demo of an app that is deployed into a cloud computing service like AW
 ## Rocketseat
 https://www.youtube.com/watch?v=kqBCHYf_adA
 
-For windows you need to run on git base
+<strong>For windows you need to run on git bash.</strong>
+
 Requirements:
 * docker
 * docker-compose
