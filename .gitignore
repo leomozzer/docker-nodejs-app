@@ -1,0 +1,7 @@
+# package directories
+node_modules
+
+#Files
+docker-production.yml
+buildspec.yml
+package-lock.json
